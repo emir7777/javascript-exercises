@@ -1,4 +1,4 @@
-const helloWorld = require('./helloWorld').default;
+const helloWorld = require('./helloWorld');
 
 describe('Hello World', function() {
   test('says "Hello, World!"', function() {
